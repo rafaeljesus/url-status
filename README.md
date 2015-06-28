@@ -1,6 +1,3 @@
-URL Status
-================
-
 ### URL status monitoring application ###
 
 * A efficient and elegant solution for check url in parallel using streams
