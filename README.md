@@ -1,10 +1,8 @@
 ### URL status monitoring application ###
 
-* A efficient and elegant solution for check url in parallel using streams
+A efficient and elegant solution for check url in parallel using streams
 
-* Run
-
-`node server.js urls.txt`
+run `node server.js urls.txt`
 
 See that a file urls.txt was created ->
 
