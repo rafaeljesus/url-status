@@ -1,0 +1,15 @@
+{
+  "name": "url-status",
+  "version": "0.0.1",
+  "description": "URL status monitoring application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Jesus <rafaelljesus86@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.58.0",
+    "split": "^1.0.0"
+  }
+}
