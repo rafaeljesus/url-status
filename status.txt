@@ -1,0 +1,3 @@
+https://crate.io is up
+https://nodejs.org is up
+https://github.com is up
