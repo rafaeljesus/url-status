@@ -11,7 +11,6 @@ fs.createReadStream(process.argv[2])
     if (!url) return cb()
     request.head(url, (err, res) => {
       const text = url + ' is ' + (err ? 'down' : 'up' + '\n')
-      console.log(text)
       this.push(text)
       cb()
     })
